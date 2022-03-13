@@ -1,0 +1,11 @@
+{
+    "name": "pulumi-output",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^4.38.1",
+        "@pulumi/pulumi": "^3.0.0",
+        "mime": "^3.0.0"
+    }
+}
